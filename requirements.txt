@@ -1,0 +1,6 @@
+Flask
+requests
+PyJWT
+pycryptodome
+urllib3
+flask-cors
